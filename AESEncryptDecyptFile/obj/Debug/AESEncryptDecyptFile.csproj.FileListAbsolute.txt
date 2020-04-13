@@ -1,0 +1,14 @@
+F:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecyptFile\bin\Debug\AESEncryptDecyptFile.exe
+F:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecyptFile\bin\Debug\AESEncryptDecyptFile.pdb
+F:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecyptFile\bin\Debug\AESEncryptDecryptClassLibraries.dll
+F:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecyptFile\bin\Debug\AESEncryptDecryptClassLibraries.pdb
+F:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecyptFile\obj\Debug\AESEncryptDecyptFile.csprojAssemblyReference.cache
+F:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecyptFile\obj\Debug\AESEncryptDecyptFile.Form1.resources
+F:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecyptFile\obj\Debug\AESEncryptDecyptFile.Form2.resources
+F:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecyptFile\obj\Debug\AESEncryptDecyptFile.Form3.resources
+F:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecyptFile\obj\Debug\AESEncryptDecyptFile.Properties.Resources.resources
+F:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecyptFile\obj\Debug\AESEncryptDecyptFile.csproj.GenerateResource.cache
+F:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecyptFile\obj\Debug\AESEncryptDecyptFile.csproj.CopyComplete
+F:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecyptFile\obj\Debug\AESEncryptDecyptFile.exe
+F:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecyptFile\obj\Debug\AESEncryptDecyptFile.pdb
+F:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecyptFile\bin\Debug\AESEncryptDecyptFile.exe.config
